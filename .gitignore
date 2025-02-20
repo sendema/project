@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+
+# PHP
+vendor/
+.phpunit.result.cache
+
+# Docker
+docker/**/data
+
+# Environment
+.env
+.env.local
+
+# Cache
+var/
